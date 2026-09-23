@@ -23,6 +23,7 @@ The dashboard tracks five business KPIs:
 Year-over-year (YoY) growth is calculated by comparing each quarter with the corresponding quarter of the previous year.
 
 ## Dashboard Overview
+![Allegro Business Performance Dashboard](allegro_dashboard.png)
 
 The Excel dashboard includes four visualizations:
 
